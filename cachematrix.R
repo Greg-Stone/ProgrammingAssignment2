@@ -1,3 +1,5 @@
+## 25 July 2015
+
 ## Part of the intent of this exercise is to demonstrate 
 ## using <<- operator to assign a value to an object in an  
 ## environment that is different from the current environment.
